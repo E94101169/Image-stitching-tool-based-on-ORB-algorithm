@@ -1,6 +1,6 @@
 # This is a image-stitching-tool-based-on-ORB-algorithm
 
-# If you run the flie named ORB.ipynb. Please make sure you put the two image in the same flie and named "image1" and "image2"
+# If you execute a program named "ORB.ipynb". Please make sure to put both images in the same archive and name them "image1" and "image2"
 
-# The flie named ORB.ipynb is combined with a simple user interface, you can upload two images whichever you want to stitch.
-# Or use the sample images in the "IMAGES" folder
+# A file named ORB.ipynb combined with a simple user interface allows you to upload two images that you want to stitch together. Or you can use the sample images in the "IMAGE" folder
+# Domo video Link:https://youtu.be/RroJ_weJT5I
